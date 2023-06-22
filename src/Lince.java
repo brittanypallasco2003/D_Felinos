@@ -7,11 +7,11 @@ public class Lince extends Felino{
     public Lince(String nomComun,
                  String nomCientifico,
                  float peso,
-                 String tamani,
+                 String tamanio,
                  String subfamilia,
                  String formaOrejas,
                  String descCola) {
-        super(nomComun, nomCientifico, peso, tamani, subfamilia);
+        super(nomComun, nomCientifico, peso, tamanio, subfamilia);
         this.formaOrejas=formaOrejas;
         this.descCola=descCola;
     }

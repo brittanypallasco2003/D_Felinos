@@ -1,7 +1,7 @@
 public class Tigrillo extends Felino {
 
     //ATRIBUTOS
-     private int tamPoblacion;
+     private long tamPoblacion;
      private String distSelvaTrop;
 
     //CONSTRUCTOR
@@ -9,7 +9,7 @@ public class Tigrillo extends Felino {
                     String nomCientifico,
                     float peso, String tamanio,
                     String subfamilia,
-                    int tamPoblacion,
+                    long tamPoblacion,
                     String distSelvaTrop) {
         super(nomComun, nomCientifico, peso, tamanio, subfamilia);
         this.tamPoblacion=tamPoblacion;
@@ -17,11 +17,11 @@ public class Tigrillo extends Felino {
     }
     //GETTERS Y SETTERS
 
-    public int getTamPoblacion() {
+    public long getTamPoblacion() {
         return tamPoblacion;
     }
 
-    public void setTamPoblacion(int tamPoblacion) {
+    public void setTamPoblacion(long tamPoblacion) {
         this.tamPoblacion = tamPoblacion;
     }
 
