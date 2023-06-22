@@ -32,4 +32,15 @@ public class Tigrillo extends Felino {
     public void setDistSelvaTrop(String distSelvaTrop) {
         this.distSelvaTrop = distSelvaTrop;
     }
+
+    public void imprimirDatos() {
+        System.out.println("Info Tigrillo");
+        System.out.println("Nombre de la especie: " + getNomComun());
+        System.out.println("Nombre científico: " + getNomCientifico());
+        System.out.println("Peso (Kg): " + getPeso());
+        System.out.println("Tamaño: " + getTamanio());
+        System.out.println("Subfamilia: " + getSubfamilia());
+        System.out.println("Tamaño de la Población: "+getTamPoblacion());
+        System.out.println("Distribución en Selva Subtropical: "+getDistSelvaTrop());
+    }
 }

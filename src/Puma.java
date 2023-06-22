@@ -32,4 +32,15 @@ public class Puma extends Felino{
     public void setEsperanza_vida(String esperanza_vida) {
         this.esperanza_vida = esperanza_vida;
     }
+    public void imprimirDatos() {
+        System.out.println("Info Puma");
+        System.out.println("Nombre de la especie: " + getNomComun());
+        System.out.println("Nombre científico: " + getNomCientifico());
+        System.out.println("Peso (Kg): " + getPeso());
+        System.out.println("Tamaño: " + getTamanio());
+        System.out.println("Subfamilia: " + getSubfamilia());
+        System.out.println("Velocidad Máxima: "+getVelocidad_max());
+        System.out.println("Esperanza de Vida: "+getEsperanza_vida());
+    }
+
 }

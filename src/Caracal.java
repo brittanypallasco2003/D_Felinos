@@ -34,4 +34,15 @@ public class Caracal extends Felino{
     public void setLongSalto(int longSalto) {
         this.longSalto = longSalto;
     }
+
+    public void imprimirDatos() {
+        System.out.println("Info Caracal");
+        System.out.println("Nombre de la especie: " + getNomComun());
+        System.out.println("Nombre científico: " + getNomCientifico());
+        System.out.println("Peso (Kg): " + getPeso());
+        System.out.println("Tamaño: " + getTamanio());
+        System.out.println("Subfamilia: " + getSubfamilia());
+        System.out.println("Tamaño de la Población: "+getColorVientre());
+        System.out.println("Distribución en Selva Subtropical: "+getLongSalto());
+    }
 }

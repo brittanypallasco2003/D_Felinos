@@ -33,4 +33,14 @@ public class Lince extends Felino{
     public void setDescCola(String descCola) {
         this.descCola = descCola;
     }
+    public void imprimirDatos() {
+        System.out.println("Info Lince");
+        System.out.println("Nombre de la especie: " + getNomComun());
+        System.out.println("Nombre científico: " + getNomCientifico());
+        System.out.println("Peso (Kg): " + getPeso());
+        System.out.println("Tamaño: " + getTamanio());
+        System.out.println("Subfamilia: " + getSubfamilia());
+        System.out.println("Forma de las Orejas: "+getFormaOrejas());
+        System.out.println("Descripción de su cola: "+getDescCola());
+    }
 }
