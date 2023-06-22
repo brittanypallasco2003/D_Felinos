@@ -7,7 +7,7 @@ La clase Padre Felinos tiene 5 clases hijas: Gato, Tigrillo, Puma, Lince, Caraca
 ### Opción 1
 ![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/93591218-313d-403f-8380-312aa01255cd)
 ### Opción 2:
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/d4d0267f-e243-42fa-9061-14a4ffd96176)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/0f5a281b-c9e8-4cc6-9511-ee812c5e77c4)
 ### Opción 3:
 ![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/8c7b5645-773d-4c48-8a12-dcc2364aabec)
 ### Opción 4:
