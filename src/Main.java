@@ -21,7 +21,7 @@ public class Main {
         int exist=0;
         Scanner entrada = new Scanner(System.in);
         do{
-            System.out.println("-----------------------INFORMACIÓN FELINOS FELINOS-----------------------");
+            System.out.println("-----------------------INFORMACIÓN FELINOS-----------------------");
             System.out.println("1. Gato");
             System.out.println("2. Tigrillo");
             System.out.println("3. Puma");
@@ -64,13 +64,13 @@ public class Main {
                     felino2.setTamanio(tamanio);
                     System.out.print("Subfamilia: ");subfamilia=entrada.nextLine();
                     felino2.setSubfamilia(subfamilia);
-                    System.out.print("Tamaño de la Población: ");tamPoblacion=entrada.nextLong();
+                    System.out.print("Tamaño de la Población: ");tamPoblacion=entrada.nextLong(); entrada.nextLine();
                     System.out.print("Distribución en selvas subtropicales");distSelvaTrop=entrada.nextLine();
                     exist++;
                     break;
                 case 3:
-                    System.out.print("Género seleccionado: Puma");
-                    System.out.print("Ingrese la información que se le pide a continuación: ");
+                    System.out.println("Género seleccionado: Puma");
+                    System.out.println("Ingrese la información que se le pide a continuación: ");
                     System.out.print("Nombre de la especie: "); nomComun=entrada.nextLine();
                     felino3.setNomComun(nomComun);
                     System.out.print("Nombre científico: "); nomCientifico=entrada.nextLine();
@@ -81,7 +81,7 @@ public class Main {
                     felino3.setTamanio(tamanio);
                     System.out.print("Subfamilia: ");subfamilia=entrada.nextLine();
                     felino3.setSubfamilia(subfamilia);
-                    System.out.print("Velocidad Máxima: ");velocidad_max=entrada.nextInt();
+                    System.out.print("Velocidad Máxima: ");velocidad_max=entrada.nextInt(); entrada.nextLine();
                     felino3.setVelocidad_max(velocidad_max);
                     System.out.print("Esperanza de vida: ");esperanza_vida=entrada.nextLine();
                     felino3.setEsperanza_vida(esperanza_vida);

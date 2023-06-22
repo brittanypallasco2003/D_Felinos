@@ -42,7 +42,7 @@ public class Caracal extends Felino{
         System.out.println("Peso (Kg): " + getPeso());
         System.out.println("Tamaño: " + getTamanio());
         System.out.println("Subfamilia: " + getSubfamilia());
-        System.out.println("Tamaño de la Población: "+getColorVientre());
-        System.out.println("Distribución en Selva Subtropical: "+getLongSalto());
+        System.out.println("Color Vientre: "+getColorVientre());
+        System.out.println("Longitud Salto: "+getLongSalto());
     }
 }
