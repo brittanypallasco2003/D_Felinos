@@ -9,14 +9,15 @@ La clase Padre Felinos tiene 5 clases hijas: Gato, Tigrillo, Puma, Lince, Caraca
 ### Opción 2:
 ![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/0f5a281b-c9e8-4cc6-9511-ee812c5e77c4)
 ### Opción 3:
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/8c7b5645-773d-4c48-8a12-dcc2364aabec)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/74cd74e4-0dba-4acf-89d9-99e36f92f90e)
 ### Opción 4:
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/97e57720-2108-4ccb-af4b-8bd5149df621)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/42f3fd49-3d74-4414-b5d2-997a4c7c0ab3)
 ### Opción 5:
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/642b492a-2bd0-4670-9328-4b5c99570e88)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/8f3659f6-4392-437a-9ffe-38a2c472a8af)
 ### Opción 6:
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/7d4bddcf-f3da-48b2-9507-1fe12d85f4e5)
-![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/e0e5273c-2a7a-4c52-9ce9-7fea80e1343b)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/6b8444f1-4b0a-471d-a6ac-dfc62d0a4256)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/691cae31-5100-4052-8287-55232d876f6a)
+![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/b0b2d56d-4146-4e12-b4a1-2f9d2c2d0f07)
 ## Opción 7: 
 ![image](https://github.com/brittanypallasco2003/D_Felinos/assets/117743650/06ada5a7-8920-49ed-95e2-5e25f27d3b45)
 
